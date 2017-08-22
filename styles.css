@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+#app{
+  text-align: center;
+  font-family: 'Helvetica';
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color: #001d96;
+  color: #f5af61;
+}
+li{
+  border: 5px solid black;
+  width: 500px;
+  margin: 0 auto;
+  margin-bottom: 2%;
+  padding: 10px;
+  display: flex;
+  color: #f5af61;
+}
+img{
+    width: 100%;
+}
+a{
+    padding: 10px;
+}
+#particles{
+    position: absolute;
+    background: #3f5b80;
+    z-index: -5;
+    width: 100vw;
+    height: 100vh;
+}
